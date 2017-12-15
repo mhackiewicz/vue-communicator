@@ -1,0 +1,22 @@
+.register-container {
+	margin: 20px;
+}
+
+.login-form {
+	height: 100vh;	
+	background-image: url('../images/blend.jpg');
+	background-size: cover;
+}
+
+
+.login-form .md-title, .login-form .md-input-container label,
+.login-form .md-input-container .md-input  {
+	color: white;
+}
+
+.register-container {
+	width: 60%;
+	max-width: 500px;
+	margin-top: 15%;
+}
+
